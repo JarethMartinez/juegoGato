@@ -1,1 +1,2 @@
-"# juegoGato" 
+"# juegoGato"
+Equipo: Sintaxis Error
